@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.github"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\french-soup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "apple-pie"
+	}
+}
